@@ -12,4 +12,5 @@ variable "buildpacks" {
 variable "region" {
   description = "The region for Heroku deploy"
   default = "eu"
+  type = "string"
 }
