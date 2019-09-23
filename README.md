@@ -2,7 +2,7 @@
 Heroku setup through Terraform - part of exercise in DevOps course at Kristiania University College
 
 ## Description 
-A heroku module for deploying apps to Heroku, with 
+Terraform module for deploying apps to Heroku, with 
 a deployment pipeline. 
 
 Deploys apps for _test_, _staging_, and _production_. 
